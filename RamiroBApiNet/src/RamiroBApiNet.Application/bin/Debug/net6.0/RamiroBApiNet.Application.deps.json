@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RamiroBApiNet.Application/1.0.0": {
+        "dependencies": {
+          "RamiroBApiNet.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RamiroBApiNet.Application.dll": {}
+        }
+      },
+      "RamiroBApiNet.Domain/1.0.0": {
+        "runtime": {
+          "RamiroBApiNet.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RamiroBApiNet.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RamiroBApiNet.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

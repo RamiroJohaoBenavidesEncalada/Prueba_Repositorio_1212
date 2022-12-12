@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hc79Eia1lhAcum3GRI0wEs9D13eceDZO3zx22I6YVgTRErPcz+LfDQej9ZJN407HwvX3AJ0DLjXtPelwpwFMjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\ESCRITORIO\\Banco Pichincha Documentos\\Prueba Semana 4 Netcore\\Correccion Prueba\\RamiroBApiNet\\src\\RamiroBApiNet.Infraestructure\\RamiroBApiNet.Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

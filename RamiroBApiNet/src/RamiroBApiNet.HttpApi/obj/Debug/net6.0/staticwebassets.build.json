@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4uI/jPU8lfbnrHe5bre8OQX9CLVNj7CoCYVrCNr3dsE=",
+  "Source": "RamiroBApiNet.HttpApi",
+  "BasePath": "_content/RamiroBApiNet.HttpApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

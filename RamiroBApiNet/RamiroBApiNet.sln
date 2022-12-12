@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BE7DF8E3-9FD0-461B-8EA3-DB7A294E81B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamiroBApiNet.Application", "src\RamiroBApiNet.Application\RamiroBApiNet.Application.csproj", "{85C610E7-229B-4CE9-8E16-F94D7AA7934C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamiroBApiNet.Domain", "src\RamiroBApiNet.Domain\RamiroBApiNet.Domain.csproj", "{FEAEC710-03BA-4060-8DA0-C0D32FC32C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamiroBApiNet.Infraestructure", "src\RamiroBApiNet.Infraestructure\RamiroBApiNet.Infraestructure.csproj", "{5AECC59E-2A70-4BB8-98A9-9DDD087AFF9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamiroBApiNet.HttpApi", "src\RamiroBApiNet.HttpApi\RamiroBApiNet.HttpApi.csproj", "{FA87F58D-1F99-45CC-9C8A-206AEBE935A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85C610E7-229B-4CE9-8E16-F94D7AA7934C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C610E7-229B-4CE9-8E16-F94D7AA7934C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C610E7-229B-4CE9-8E16-F94D7AA7934C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C610E7-229B-4CE9-8E16-F94D7AA7934C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAEC710-03BA-4060-8DA0-C0D32FC32C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAEC710-03BA-4060-8DA0-C0D32FC32C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAEC710-03BA-4060-8DA0-C0D32FC32C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAEC710-03BA-4060-8DA0-C0D32FC32C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AECC59E-2A70-4BB8-98A9-9DDD087AFF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AECC59E-2A70-4BB8-98A9-9DDD087AFF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AECC59E-2A70-4BB8-98A9-9DDD087AFF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AECC59E-2A70-4BB8-98A9-9DDD087AFF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA87F58D-1F99-45CC-9C8A-206AEBE935A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA87F58D-1F99-45CC-9C8A-206AEBE935A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA87F58D-1F99-45CC-9C8A-206AEBE935A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA87F58D-1F99-45CC-9C8A-206AEBE935A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{85C610E7-229B-4CE9-8E16-F94D7AA7934C} = {BE7DF8E3-9FD0-461B-8EA3-DB7A294E81B2}
+		{FEAEC710-03BA-4060-8DA0-C0D32FC32C15} = {BE7DF8E3-9FD0-461B-8EA3-DB7A294E81B2}
+		{5AECC59E-2A70-4BB8-98A9-9DDD087AFF9D} = {BE7DF8E3-9FD0-461B-8EA3-DB7A294E81B2}
+		{FA87F58D-1F99-45CC-9C8A-206AEBE935A7} = {BE7DF8E3-9FD0-461B-8EA3-DB7A294E81B2}
+	EndGlobalSection
+EndGlobal
